@@ -1,0 +1,10 @@
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\bin\Debug\netcoreapp2.0\asp.net_basic.deps.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\bin\Debug\netcoreapp2.0\asp.net_basic.runtimeconfig.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\bin\Debug\netcoreapp2.0\asp.net_basic.runtimeconfig.dev.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\bin\Debug\netcoreapp2.0\asp.net_basic.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\bin\Debug\netcoreapp2.0\asp.net_basic.pdb
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\obj\Debug\netcoreapp2.0\asp.net_basic.csproj.CoreCompileInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\obj\Debug\netcoreapp2.0\asp.net_basic.AssemblyInfoInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\obj\Debug\netcoreapp2.0\asp.net_basic.AssemblyInfo.cs
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\obj\Debug\netcoreapp2.0\asp.net_basic.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\asp.net_basic\obj\Debug\netcoreapp2.0\asp.net_basic.pdb
